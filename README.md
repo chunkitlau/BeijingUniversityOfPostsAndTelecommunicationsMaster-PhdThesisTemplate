@@ -1,6 +1,9 @@
 # BeijingUniversityOfPostsAndTelecommunicationsMaster-PhdThesisTemplate
+
 **警告：本项目非官方实现，出现问题概不负责。**
+
 本项目转载自[Overleaf模板](https://www.overleaf.com/latex/templates/beijing-university-of-posts-and-telecommunications-master-slash-phd-thesis-template/dkpkvpsvvhpg)
+
 [Overleaf实现链接](https://www.overleaf.com/read/ftxnytqpspvq)
 
 ## 关于
